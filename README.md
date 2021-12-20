@@ -1,8 +1,6 @@
-# Removed the Backedoor of the original b374k-mini Shell
-
 # b374k-mini
 
-PHP Webshell with handy features.
+This is the decoded b374k minishell, removed the backdoor that was present in the orginal one. Enjoy...............
 
 ![Screenshot](Screenshot.png?raw=ture "Screenshot")
 
